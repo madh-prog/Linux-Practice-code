@@ -1,0 +1,12 @@
+Information of student 1 :
+Name : Nikita
+Marks : 45
+
+Information of student 2 :
+Name : Madhuri
+Marks : 80
+
+Information of student 3 :
+Name : Sanika
+Marks : 75
+
